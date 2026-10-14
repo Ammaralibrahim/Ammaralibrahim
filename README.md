@@ -1,55 +1,64 @@
-# Hi, I'm Ammar 👋
+# Ammar Alibrahim
 
-## Full Stack Engineer
+### Full Stack Engineer · TypeScript · Next.js · Node.js
 
-I build scalable web applications using React, Next.js, Node.js and TypeScript.
+I build modern web applications and backend systems with a focus on clean architecture, reliable APIs, and maintainable software.
 
-I focus on:
-- SaaS applications
-- Backend architecture
-- Performance optimization
-- Clean and maintainable systems
+My work spans full-stack development, business platforms, database design, and performance optimization.
 
+---
 
-## Tech Stack
+### Engineering Focus
 
-### Frontend
-React
-Next.js
-TypeScript
-Tailwind CSS
+- **Full-Stack Development** — React, Next.js, TypeScript
+- **Backend Engineering** — Node.js, NestJS, Express.js, REST APIs
+- **Data & Infrastructure** — MongoDB, Redis, MySQL
+- **System Design** — Authentication, authorization, scalable application architecture
 
-### Backend
-Node.js
-Nest.js
-Express.js
+### Selected Projects
 
-### Database
-MongoDB
-Redis
-MySQL
+**Asak — B2B Platform**
 
+A business-oriented platform focused on modern application architecture and backend integration.
 
-## Featured Projects
+**Stack:** Next.js · NestJS · MongoDB
 
-🚀 Asak B2B Platform
-Modern enterprise platform rebuilt with Next.js, Nest.js and MongoDB.
+**Gamma Cities — Interactive 3D Experience**
 
-🌎 Gamma Cities
-Interactive 3D web experience built with React and Three.js.
+An interactive 3D web experience built around immersive environments and real-time web technologies.
 
+**Stack:** React · Three.js · JavaScript
 
-## Currently Learning
+---
 
-AI Engineering
-Machine Learning
-Cloud Architecture
+### Technology Stack
 
+**Frontend**  
+React · Next.js · TypeScript · JavaScript · Tailwind CSS
 
-## Contact
+**Backend**  
+Node.js · NestJS · Express.js · REST APIs
 
-Portfolio:
-https://ammar-alibrahim.netlify.app
+**Databases**  
+MongoDB · Redis · MySQL
 
-LinkedIn:
-https://linkedin.com/in/ammar-alibrahim
+**Tools & Platforms**  
+Git · GitHub · Vercel
+
+---
+
+### Current Focus
+
+Strengthening computer science fundamentals, algorithms and data structures, backend engineering, software testing, and system design.
+
+---
+
+### Connect
+
+**Portfolio:** [ammaralibrahim.vercel.app](https://ammaralibrahim.vercel.app)  
+**LinkedIn:** [linkedin.com/in/ammaralibrahim](https://linkedin.com/in/ammaralibrahim)  
+**GitHub:** [github.com/Ammaralibrahim](https://github.com/Ammaralibrahim)
+
+---
+
+<sub>Building thoughtfully. Engineering with purpose.</sub>
